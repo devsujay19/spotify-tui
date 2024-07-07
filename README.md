@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-94-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Follow Sujay Mukherjee (devsujay19)](https://img.shields.io/twitter/follow/AlexKeliris?label=Follow%20Alexander%20Keliris%20%28Rigellute%29&style=social)](https://twitter.com/intent/follow?screen_name=AlexKeliris)
+[![Follow Sujay Mukherjee (devsujay19)](https://img.shields.io/twitter/follow/AlexKeliris?label=Follow%20Sujay%20Mukherjee%20%28devsujay19%29&style=social)](https://twitter.com/intent/follow?screen_name=devsujay19)
 
 A Spotify client for the terminal written in Rust.
 
